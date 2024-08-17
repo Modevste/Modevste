@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Modevste
+- 👀 I’m interested in building dynamic web applications, exploring microservices architecture, and creating efficient APIs.
+- 🌱 I’m currently learning advanced concepts in React.js, Symfony best practices, and concurrency in Go.
+- 💞️ I’m looking to collaborate on open-source projects, particularly those that involve full-stack development or innovative solutions using React and Symfony.
+- 📫 How to reach me: You can contact me via email at herijaotiana@gmail.com
+- ⚡ Fun fact: I love solving algorithmic challenges and have a passion for learning new programming languages. In my free time, I enjoy hiking and exploring nature!
